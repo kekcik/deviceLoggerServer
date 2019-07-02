@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "7v96poeti",
+      "name": "IvanTrofimov"
+    }
+  ],
+  "devices": [],
+  "logs": [
+    {
+      "id": "axn705lkw",
+      "userId": "7v96poeti",
+      "action": "Добавлен пользователь",
+      "time": 1562065538322
+    }
+  ]
+}
